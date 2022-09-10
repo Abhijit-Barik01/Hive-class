@@ -1,0 +1,2 @@
+# Hive-class
+Hive-class
